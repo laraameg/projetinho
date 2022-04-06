@@ -8,6 +8,6 @@ class Bola {
     }
     
     quicar(sprite){
-        this.sprite.bounceOff(sprite)
+        this.sprite.bounceOff(sprite);
     }
 }
